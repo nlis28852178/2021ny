@@ -1,18 +1,18 @@
 @charset "utf-8";
 .bg_ex {
-	background-image: url(file:///C|/AppServ/www/2021ny/images/2021ny_04.jpg);
+	background-image: url(../images/2021ny_04.jpg);
 	height: 70px;
 	width: 754px;
 	background-repeat: no-repeat;
 }
 .bg_form {
-	background-image: url(file:///C|/AppServ/www/2021ny/images/2021ny_06.jpg);
+	background-image: url(../images/2021ny_06.jpg);
 	height: 186px;
 	width: 754px;
 	background-repeat: no-repeat;
 }
 .bg_met {
-	background-image: url(file:///C|/AppServ/www/2021ny/images/2021ny_02.jpg);
+	background-image: url(../images/2021ny_02.jpg);
 	height: 923px;
 	width: 550px;
 	background-repeat: no-repeat;
