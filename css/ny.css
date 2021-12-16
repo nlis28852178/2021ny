@@ -1,0 +1,55 @@
+@charset "utf-8";
+.bg_ex {
+	background-image: url(file:///C|/AppServ/www/2021ny/images/2021ny_04.jpg);
+	height: 70px;
+	width: 754px;
+	background-repeat: no-repeat;
+}
+.bg_form {
+	background-image: url(file:///C|/AppServ/www/2021ny/images/2021ny_06.jpg);
+	height: 186px;
+	width: 754px;
+	background-repeat: no-repeat;
+}
+.bg_met {
+	background-image: url(file:///C|/AppServ/www/2021ny/images/2021ny_02.jpg);
+	height: 923px;
+	width: 550px;
+	background-repeat: no-repeat;
+}
+.bg {
+	background-image: url(images/bg.jpg);
+	height: 923px;
+	width: 1500px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.test_1 {
+	font-family: "微軟正黑體", Arial;
+	font-size: 16px;
+	line-height: 25px;
+	font-weight: bold;
+	color: #FFF;
+}
+.test_2 {
+	font-family: "微軟正黑體", Arial;
+	font-size: 14px;
+	line-height: 25px;
+	color: #FFF;
+}
+.test_3 {
+	font-family: "微軟正黑體", Arial;
+	font-size: 14px;
+	line-height: 25px;
+	color: #CBB36B;
+}
+.padd_1 {
+	padding-right: 50px;
+	padding-bottom: 200px;
+	padding-left: 100px;
+}
+.padd_2 {
+	padding-right: 30px;
+	padding-top: 53px;
+	padding-left: 30px;
+}
